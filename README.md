@@ -15,7 +15,7 @@ The documentation for this server rig has been professionally formatted and comp
 
 <br>
 
-<a href="minecraft-server-guide_(anonymous).pdf at main · J0hnWIcks_minecraft-server-guide.html" target="_blank">
+<a href="minecraft-server-guide_(anonymous).pdf at main · J0hnWIcks_minecraft-server-guide.pdf" target="_blank">
   <img src="https://img.shields.io/badge/DOWNLOAD_&_VIEW_PDF_MANUAL-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download PDF" width="320">
 </a>
 
