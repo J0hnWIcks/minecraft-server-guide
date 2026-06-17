@@ -10,7 +10,7 @@
 
 ---
 
-### 📄 DESIGNER MANUAL ACCESS
+###  DESIGNER MANUAL ACCESS
 The documentation for this server rig has been professionally formatted and compiled into an interactive PDF manual to preserve system typography, asset diagrams, and visual styling.
 
 <br>
