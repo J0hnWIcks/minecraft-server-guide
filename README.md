@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Documentation-v1.0-blue?style=for-the-badge" alt="Version">
 </p>
 
-# 🌐 MINECRAFT SERVER RIG MANUAL
+#  MINECRAFT SERVER RIG MANUAL
 ### Official IT Support & Configuration Guide
 
 ---
